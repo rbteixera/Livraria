@@ -1,0 +1,9 @@
+127.0.0.1 - - [08/Mar/2018:16:38:36 -0300] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [08/Mar/2018:16:52:57 -0300] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [08/Mar/2018:16:54:24 -0300] "GET /casadocodigo/produtos/form HTTP/1.1" 200 1326
+0:0:0:0:0:0:0:1 - - [08/Mar/2018:16:54:25 -0300] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [08/Mar/2018:16:54:49 -0300] "GET /casadocodigo/produtos/form HTTP/1.1" 200 1326
+0:0:0:0:0:0:0:1 - - [08/Mar/2018:16:55:04 -0300] "GET /casadocodigo/produtos HTTP/1.1" 500 24418
+0:0:0:0:0:0:0:1 - - [08/Mar/2018:16:56:32 -0300] "GET /casadocodigo/produtos HTTP/1.1" 200 1115
+0:0:0:0:0:0:0:1 - - [08/Mar/2018:16:59:14 -0300] "GET /casadocodigo/produtos/form HTTP/1.1" 200 1326
+0:0:0:0:0:0:0:1 - - [08/Mar/2018:16:59:24 -0300] "GET /casadocodigo/produtos HTTP/1.1" 200 1115

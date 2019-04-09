@@ -1,0 +1,17 @@
+127.0.0.1 - - [06/Apr/2018:08:50:24 -0300] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [06/Apr/2018:09:29:05 -0300] "GET /casadocodigo/ HTTP/1.1" 200 595
+0:0:0:0:0:0:0:1 - - [06/Apr/2018:09:29:06 -0300] "GET /favicon.ico HTTP/1.1" 404 973
+127.0.0.1 - - [06/Apr/2018:10:05:24 -0300] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [06/Apr/2018:10:06:50 -0300] "GET /casadocodigo/ HTTP/1.1" 500 5116
+0:0:0:0:0:0:0:1 - - [06/Apr/2018:10:10:28 -0300] "GET /casadocodigo/resources/css/fontello.css HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [06/Apr/2018:10:10:28 -0300] "GET /casadocodigo/resources/css/fontello-ie7.css HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [06/Apr/2018:10:10:28 -0300] "GET /casadocodigo/resources/css/layout-colors.css HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [06/Apr/2018:10:10:28 -0300] "GET /casadocodigo/resources/css/style.css HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [06/Apr/2018:10:10:28 -0300] "GET /casadocodigo/resources/css/produtos.css HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [06/Apr/2018:10:10:28 -0300] "GET /casadocodigo/resources/css/fontello-embedded.css HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [06/Apr/2018:10:10:28 -0300] "GET /casadocodigo/resources/css/guia-do-programador-style.css HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [06/Apr/2018:10:10:28 -0300] "GET /casadocodigo/resources/css/responsive-style.css HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [06/Apr/2018:10:10:27 -0300] "GET /casadocodigo/ HTTP/1.1" 200 20847
+0:0:0:0:0:0:0:1 - - [06/Apr/2018:10:10:28 -0300] "GET /casadocodigo/resources/css/book-collection.css HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [06/Apr/2018:10:10:28 -0300] "GET /casadocodigo/resources/css/fonts.css HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [06/Apr/2018:10:10:28 -0300] "GET /casadocodigo/resources/css/cssbase-min.css HTTP/1.1" 404 949

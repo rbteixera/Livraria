@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 0 elements to &apos;estoque/src/main/java/br.com.estoque.models&apos;&#x0A;- Destination element: &apos;estoque/src/main/java/br.com.estoque.models&apos;" description="Copy compilation units" destination="=estoque/src\/main\/java&lt;br.com.estoque.models" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1531158859356" units="0" version="1.0"/>
+</session>
